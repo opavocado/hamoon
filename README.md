@@ -1,15 +1,25 @@
 # Hamoon v0.1
 
+![Splash](https://github.com/opavocado/hamoon/blob/master/readme/image-1.png)
+
+
+![Hamoon](https://github.com/opavocado/hamoon/blob/master/readme/image-2.png)
+
+
+![Hamoon](https://github.com/opavocado/hamoon/blob/master/readme/image-3.png)
+
+## Description
+It's a high score based game. Collect as many items as possible, escape the robots and reach the next level.
+Beware that the deeper you go, the more difficult it gets.
+
 ## ToDo
-- quitar bonus de tiempo y hp al pasar de nievl
-- carne que da HP
-- carne que da tiempo
-- pedirla al rasta uqe me haga un tema
-- UI: add visible HP
+- Remove HP and time bonus when moving into the next level
+- HP regen meat
+- UI: HP counter
 - UI: pause menu
 - Sound: when killing bot
 - Sound: game starts
-- Publish score online
+- Publish score on online board
 
 ## Credits
 - songs made by: (bombstu under public domain license)[https://freesound.org/people/bombstu/sounds/159074/]
