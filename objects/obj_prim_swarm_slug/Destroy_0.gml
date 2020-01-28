@@ -1,0 +1,1 @@
+global.score_amount += 30;
